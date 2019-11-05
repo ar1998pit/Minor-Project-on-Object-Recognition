@@ -1,0 +1,2 @@
+# Minor-Project-on-Object-Recognition
+The project aims to implement Deep learning Algorithms such as YOLO and CNN for object detection in field of traffic management. The objects are considered as the different vehicles, number plates and humans. The dataset is so designed with specific objects which will be recognized by the camera and result will be shown within seconds using particular algorithm. This application can help for better traffic analysis and can be made useful for building up a “Traffic Analysis System”. This can help for public Security also. 
