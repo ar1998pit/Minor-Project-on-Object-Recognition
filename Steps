@@ -1,0 +1,7 @@
+Kindly extract all the files into an " Object_Recognition" folder
+You can download "ssd_mobilenet_v1_coco_11_06_2017.tar" for input data set for identifying objects
+The project aims to implement Deep learning Algorithms such as YOLO and CNN for object detection in field of traffic management. 
+The objects are considered as the different vehicles, number plates and humans. 
+The dataset is so designed with specific objects which will be recognized by the camera and result will be shown within seconds using particular algorithm.
+This application can help for better traffic analysis and can be made useful for building up a “Traffic Analysis System”. 
+
